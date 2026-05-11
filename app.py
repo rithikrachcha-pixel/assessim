@@ -89,7 +89,7 @@ BOT_PROFILES = [
     {'name': 'Zara Khan', 'school': '1st Year MORSE @ Oxford', 'avatar': 'ZK'},
     {'name': 'Lucas Bergmann', 'school': 'Analyst, Deutsche Bank', 'avatar': 'LB'},
     {'name': 'Nina Novak', 'school': '2nd Year Maths+CS @ MIT exchange', 'avatar': 'NN'},
-    {'name': 'Felix Zhang', 'school': '1st Year Economics @ LSE', 'avatar': 'FZ'},
+    {'name': 'David James Wu', 'school': '1st Year Economics @ LSE', 'avatar': 'DJW'},
     {'name': 'Camila Silva', 'school': 'Final Year Business @ Warwick', 'avatar': 'CS'},
     {'name': 'Marcus Johnson', 'school': '2nd Year Engineering @ UCL', 'avatar': 'MJ'},
     {'name': 'Sienna Park', 'school': 'MORSE Graduate candidate', 'avatar': 'SP'},
